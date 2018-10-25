@@ -1,0 +1,27 @@
+body {
+    max-width: 800px;
+}
+
+img {
+    max-width: 800px;
+}
+
+li.nivel1 {
+    color: red;
+}
+
+li.nivel2 {
+    color: blue;
+}
+
+li.nivel3 {
+    color: black;
+}
+
+li.nivel4 {
+    color: green;
+}
+
+li.nivel5 {
+    color: purple;
+}
